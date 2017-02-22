@@ -12,7 +12,7 @@
 
 #logo {
     display: inline-flex;
-    background: url('/images/icons.png');
+    background: url('../images/icons.png');
     background-repeat: no-repeat;
     background-position: -177px 0;
     height: 35px;
@@ -62,7 +62,7 @@ input {
 
 #explore {
     display: inline-flex;
-    background: url('/images/icons.png');
+    background: url('../images/icons.png');
     background-position: 0 -279px;
     height: 24px;
     width: 24px;
@@ -73,7 +73,7 @@ input {
 
 .heart {
     display: inline-flex;
-    background: url('/images/icons.png');
+    background: url('../images/icons.png');
     background-position: -181px -229px;
     height: 24px;
     width: 24px;
@@ -82,7 +82,7 @@ input {
 
 #profile-icon {
     display: inline-flex;
-    background: url('/images/icons.png');
+    background: url('../images/icons.png');
     background-position: -302px -180px;
     height: 24px;
     width: 24px;
@@ -98,7 +98,7 @@ input {
 }
 
 .three-dots {
-    background: url('/images/icons.png');
+    background: url('../images/icons.png');
     background-position: -308px -37px;
     height: 44px;
     width: 44px;
